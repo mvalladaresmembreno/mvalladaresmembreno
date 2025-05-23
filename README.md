@@ -89,8 +89,10 @@ Let’s build something great together!
 ---
 
 ## 📫 Lets Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:tunombre@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mvalladaresmembreno)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:mcvm2101@gmail.com)
+[![Website](https://img.shields.io/badge/Website-margaritavalladares.com-blue?style=flat&logo=google-chrome)]([https://margaritavalladares.com](https://mcvm2101.wixsite.com/portfolio-mcvm))
+
 
 <!--
 **mvalladaresmembreno/mvalladaresmembreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
